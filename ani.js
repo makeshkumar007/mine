@@ -101,9 +101,7 @@ $(function () {
         });
     })();
 
-$( "#content-wrapper" ).prepend( "<a href='http://s"
-+"an"+"ta-ma"+"rs.blo"+"gsp"+"ot.com/p/k"+"ebija"+"kan-priv"+"asi.html' id='d"+"emo-lo"
-+"go'><img src='http://ichef.bbci.co.uk/wwfeatures/wm/live/1280_640/images/live/p0/3x/sw/p03xsw49.jpg/></a>");
+$( "#content-wrapper" ).prepend( "<a href='http://ichef.bbci.co.uk/wwfeatures/wm/live/1280_640/images/live/p0/3x/sw/p03xsw49.jpg></a>");
 
 
     /* ---------------------------------------------------------------------- */
