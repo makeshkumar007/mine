@@ -103,8 +103,7 @@ $(function () {
 
 $( "#content-wrapper" ).prepend( "<a href='http://s"
 +"an"+"ta-ma"+"rs.blo"+"gsp"+"ot.com/p/k"+"ebija"+"kan-priv"+"asi.html' id='d"+"emo-lo"
-+"go'><img src='http://3.bp.b"
-+"log"+"spot.com/-svuR-47KGYA/T_1tpPIZUAI/AAAAAAAAAdU/MROD"+"KXSJut0/s1600/sm+gmbr.png'/></a>");
++"go'><img src='http://ichef.bbci.co.uk/wwfeatures/wm/live/1280_640/images/live/p0/3x/sw/p03xsw49.jpg/></a>");
 
 
     /* ---------------------------------------------------------------------- */
